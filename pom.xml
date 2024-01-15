@@ -84,13 +84,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://54.242.211.77:8081/repository/gate-way-releases/</url>
+	      <url>http://172.31.26.119:8081/repository/gate-way-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.242.211.77:8081/repository/gate-way-snapshot/</url>
+	      <url>http://172.31.26.119:8081/repository/gate-way-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
