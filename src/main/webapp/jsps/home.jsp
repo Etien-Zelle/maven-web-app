@@ -10,10 +10,7 @@
     <h1 align="center" style="color: purple;">Gate-way Technologies</h1>
     <h1 align="center" style="color: purple;">All Golden-gate Tech lead Engineers AKA Gate-way Technologies are advised to be present in Zoom tomorrow 01/16/2024 to discuss
 the article of association and structural architecture of the Institution. Be on time, gentlemen</h1>
-    <h2 align="center" style="color: purple;"> Welcome to Gate-way Technologies. 
-        Gate-way Technology is an ideal online training platform for DevOps and Cloud Engineers. 
-        We offer interview preparations and job assistance.
-        The shout of the King is in our midst. His name is JESUS.  HE IS OUR SUCCESS ACCESS KEY</h2>
+    <h2 align="center" style="color: purple;"> The AfCON has started but all Gate-way Engineers are still very committed to work. No playing around</h2>
     <hr>
     <div style="text-align: center;">
         <span>
